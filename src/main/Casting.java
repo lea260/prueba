@@ -33,6 +33,8 @@ public class Casting {
 		System.out.println(a);
 		a--;
 		System.out.println(a);
+		//comentario
+		//otro comentario
 		
 		
 		
